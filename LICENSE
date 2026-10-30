@@ -1,0 +1,20 @@
+AI Pro
+Copyright (c) 2026 Chinmay (chinmays-tanx09). All rights reserved.
+
+This is proprietary software. No license is granted to copy, modify, merge,
+publish, redistribute, sublicense, re-upload, mirror or sell AI Pro or any
+part of it, in original or modified form, without prior written permission
+from the copyright holder.
+
+You may download the official APK from
+https://github.com/chinmays-tanx09/ai-pro/releases and install it on your own
+devices for personal use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Third-party components included in the app remain under their own licenses,
+including Tesseract language data (Apache-2.0), the EfficientNet-Lite model
+(Apache-2.0) and ZXing (Apache-2.0). Google, Lens and Samsung are trademarks
+of their owners; AI Pro is not affiliated with or endorsed by them.
